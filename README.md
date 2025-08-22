@@ -38,7 +38,7 @@ Proyecto realizado como práctica del curso de Vue 3.
 
 ## Autor
 **Analista de Sistemas**  
-Rafael González  
+Rafael Uzcategui  
 rafaelg21@gmail.com  
 +58 414-5599527
 
